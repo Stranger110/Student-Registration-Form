@@ -6,3 +6,5 @@ Age: Int
 Address: nvarchar(50)
 
 Created this mini project for learning Purpose.
+
+![image](https://github.com/Stranger110/Student-Registration-Form/assets/93912441/a790c739-f56d-4e1c-8e68-447cc1645334)
